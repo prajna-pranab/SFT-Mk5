@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-09042019-108122";"";
+"REFERENCE";"AS3552";"";
+"TraceParts.PartTitle";"Axial bearing washers AS, suitable for AXK and K811, to DIN 5405-3/ISO 303";"";
+"TraceParts.InstanceId";"33-09042019-1081225RVEBNNVBUQGV0YL32T7N3E9Y";"";
+"SELECTION";"AS3552";"";
+"SUPPLIER";"Schaeffler Technologies AG & Co. KG";"";
+"DESIGN";"Axial bearing washer";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.6";"";

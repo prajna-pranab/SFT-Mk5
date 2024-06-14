@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-02052019-071241";"";
+"REFERENCE";"AXK3552";"";
+"TraceParts.PartTitle";"Axial needle roller and cage assemblies AXK, single direction, to DIN 5405-2";"";
+"TraceParts.InstanceId";"33-02052019-0712411QZA1MKWAEG0HLARZDR9FRZRH";"";
+"SELECTION";"AXK3552";"";
+"SUPPLIER";"Schaeffler Technologies AG & Co. KG";"";
+"DESIGN";"Axial needle roller bearing";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.6";"";

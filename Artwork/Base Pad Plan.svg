@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="Base Pad Plan.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.6916947"
+     inkscape:cx="-13.137598"
+     inkscape:cy="4.3340528"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect904"
+       width="2.898632"
+       height="4.0316978"
+       x="23.594036"
+       y="-27.488178" />
+    <rect
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect906"
+       width="2.8998089"
+       height="3.9393151"
+       x="-25.563274"
+       y="-27.452984" />
+    <rect
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect908"
+       width="3.0315521"
+       height="4.1772904"
+       x="23.515247"
+       y="23.389267" />
+    <rect
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect910"
+       width="2.6884975"
+       height="3.8599463"
+       x="-25.531063"
+       y="23.437752" />
+    <rect
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1014"
+       width="19.86779"
+       height="1.1691633"
+       x="6.6612754"
+       y="-0.67249507" />
+    <rect
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1016"
+       width="20.100094"
+       height="1.2118983"
+       x="-25.620266"
+       y="-0.60824794" />
+    <rect
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1018"
+       width="1.6917272"
+       height="6.4737487"
+       x="25.867504"
+       y="30.588341" />
+    <rect
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1020"
+       width="1.3555198"
+       height="6.2510166"
+       x="-26.29034"
+       y="30.70314" />
+    <rect
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1022"
+       width="1.597355"
+       height="5.8809118"
+       x="25.713657"
+       y="69.823669" />
+    <rect
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1024"
+       width="1.5091815"
+       height="6.4158421"
+       x="-26.338764"
+       y="69.638504" />
+    <ellipse
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.120782;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1128"
+       cx="0.40628582"
+       cy="61.394169"
+       rx="5.2667532"
+       ry="5.5331736" />
+    <ellipse
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1236"
+       cx="-4.271029"
+       cy="0.098539189"
+       rx="2.1772351"
+       ry="2.2824075" />
+    <ellipse
+       style="fill:#ffc35d;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1318"
+       cx="4.9330497"
+       cy="0.066297367"
+       rx="2.1772351"
+       ry="2.2824075" />
+  </g>
+</svg>
