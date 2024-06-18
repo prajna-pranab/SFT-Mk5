@@ -2,7 +2,7 @@
 
 This is a [FreeCAD](https://freecad.org/) project to model the [Switched Flux Transmission](https://tomboy-pink.co.uk/SFT/) device invented by Prajna Pranab. This is the Mk5 version, for the Mk 4 please refer to [my SFT repo](https://github.com/prajna-pranab/SFT)
 
-![banner](https://github.com/prajna-pranab/SFT-Mk5/assets/4018272/7a15ba0b-912a-462d-a427-be51532873dc)
+![banner](https://github.com/prajna-pranab/SFT-Mk5/assets/4018272/a7e3f283-79dd-4dbe-946b-8d0af64cae47)
 
 The Mk 4 version was successfully printed and assembled but the transmission system was a bit too flimsy and there was no adjustment designed in, so this is a complete redesign for easier printing, a simpler and more robust transmission system and it should be easier to assemble, adjust and test.
 
